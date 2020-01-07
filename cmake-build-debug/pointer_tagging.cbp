@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/botour-pc/workspace/c++/pointer-tagging/PTRTaggingUtil.cpp">
-			<Option target="pointer_tagging"/>
-		</Unit>
 		<Unit filename="/Users/botour-pc/workspace/c++/pointer-tagging/main.cpp">
 			<Option target="pointer_tagging"/>
 		</Unit>
